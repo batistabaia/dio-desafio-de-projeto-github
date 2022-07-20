@@ -7,6 +7,3 @@ Links Úteis
 
 [Sintaxe Básica do Markdown](https://markdown.net.br/sintaxe-basica/)
 
-[Introdução ao Git/GitHub]
-
-[Comandos Básicos para um bom Desempenho no Terminal](1-cmd para abrir 2-dir-Lista repositório 3-cd vai para diretório pasta 4-cd.. retrocede pasta 5-mkdir cria pasta 6-cls limpa terminal 7-del deleta arquivo 8-rmdir deleta pasta 9-echo hello> hello.txt novo arquivo)
